@@ -1,2 +1,4 @@
 I want to add new text as user One.
 Number 1 users text.
+This is a number 2 user.
+This is a users 2 text.
